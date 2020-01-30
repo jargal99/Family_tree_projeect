@@ -1,2 +1,1 @@
-# Family_tree_proje
-ct
+# Family_tree_project
